@@ -1,4 +1,4 @@
-const correctAnswer = ["A", "B", "A", "B", "A", "A", "B", "B"];
+const correctAnswer = ["A", "B", "A", "B", "A", "A", "B", "A", "B", "B"];
 const form = document.querySelector(".quiz-form");
 const result = document.querySelector(".result");
 form.addEventListener("submit", (e) => {
